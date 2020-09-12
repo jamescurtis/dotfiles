@@ -1,0 +1,1 @@
+/Users/jamescurtis/.bash_profile
